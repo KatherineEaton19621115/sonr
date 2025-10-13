@@ -48,3 +48,4 @@ The DEX module enables decentralized exchange operations across multiple chains 
 - IBC packet timeouts prevent stuck transactions
 - Connection IDs must reference valid, established IBC channels
 - DID-based authentication ensures identity verification
+<!-- Auto-update: 2025-10-14T06:59:25.464488 -->

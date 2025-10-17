@@ -589,3 +589,5 @@ docker run --rm -v testnet_ipfs-data:/data -v $(pwd):/backup \
 # Restart containers
 make start
 ```
+
+<!-- Auto-update: 2025-10-17T10:33:10.257120 -->
